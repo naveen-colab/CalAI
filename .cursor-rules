@@ -1,0 +1,69 @@
+{
+  "rules": [
+    {
+      "name": "MVVM Architecture",
+      "description": "Enforce MVVM pattern separation",
+      "paths": [
+        "**/Models/*.swift",
+        "**/ViewModels/*.swift", 
+        "**/Views/*.swift"
+      ],
+      "checks": [
+        {
+          "type": "import",
+          "restrictions": {
+            "Models": ["SwiftUI", "SwiftData", "Foundation"],
+            "ViewModels": ["SwiftUI", "Combine", "Foundation"],
+            "Views": ["SwiftUI"]
+          }
+        },
+        {
+          "type": "reference",
+          "restrictions": {
+            "Views": ["ViewModels", "Models"],
+            "ViewModels": ["Models", "Services"],
+            "Models": []
+          }
+        }
+      ]
+    },
+    {
+      "name": "API Service Isolation",
+      "description": "Keep API service dependencies contained",
+      "paths": ["**/Services/*.swift"],
+      "checks": [
+        {
+          "type": "import",
+          "restrictions": ["Foundation", "Combine", "UIKit"]
+        }
+      ]
+    },
+    {
+      "name": "Preview Isolation",
+      "description": "Keep preview code separate",
+      "paths": ["**/Preview Content/**"],
+      "checks": [
+        {
+          "type": "reference",
+          "restrictions": []
+        }
+      ]
+    },
+    {
+      "name": "Documentation Standards",
+      "description": "Ensure documentation exists for key components",
+      "paths": [
+        "**/Models/*.swift",
+        "**/ViewModels/*.swift",
+        "**/Services/*.swift"
+      ],
+      "checks": [
+        {
+          "type": "documentation",
+          "required": true,
+          "elements": ["summary", "parameters", "returns"]
+        }
+      ]
+    }
+  ]
+}
