@@ -1,0 +1,72 @@
+{
+  "source": "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Views/CameraView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Camera unavailable",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Camera access required",
+        "location": {
+          "startingColumn": 85,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try Again",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open Settings",
+        "location": {
+          "startingColumn": 80,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Retake",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 152
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analyze",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 165
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analyzing image...",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 187
+        }
+      }
+    ]
+  },
+  "version": 1
+}

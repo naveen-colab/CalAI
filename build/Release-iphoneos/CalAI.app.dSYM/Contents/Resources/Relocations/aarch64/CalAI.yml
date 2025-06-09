@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/suryatejanammi/Desktop/Naveen/CalAI/build/Release-iphoneos/CalAI.app/CalAI'
+relocations:     []
+...

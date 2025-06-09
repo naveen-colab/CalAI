@@ -1,0 +1,21 @@
+version: "Apple Swift version 6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)"
+options: "43ef88e19b3dc50b7227347f875afb2c76c4241a5f3ae31fdf667d73afc73eae"
+build_start_time: [1749443526, 962427000]
+build_end_time: [1749443530, 394811000]
+inputs:
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/CalAIApp.swift": [1749383185, 76566869]
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/ContentView.swift": [1749378576, 881682414]
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Item.swift": [1749378576, 882633832]
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Models/FoodEntry.swift": [1749442986, 758210980]
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Models/Ingredient.swift": [1749442101, 525416300]
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Services/OpenAIService.swift": [1749442285, 716814593]
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/ViewModels/CameraViewModel.swift": [1749390015, 443313695]
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/ViewModels/FoodAnalysisViewModel.swift": [1749442233, 683984092]
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/ViewModels/HistoryViewModel.swift": [1749387372, 828263803]
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Views/CameraView.swift": [1749389972, 733484308]
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Views/FoodAnalysisView.swift": [1749442166, 742141759]
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Views/HistoryView.swift": [1749387307, 772858017]
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Views/MainTabView.swift": [1749383196, 591791269]
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Views/SettingsView.swift": [1749383770, 657040559]
+  ? "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1749442966, 55783518]

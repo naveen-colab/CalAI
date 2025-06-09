@@ -1,0 +1,85 @@
+{
+  "" : {
+    "const-values" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CalAI-master.swiftconstvalues",
+    "dependencies" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CalAI-master.d",
+    "diagnostics" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CalAI-master.dia",
+    "emit-module-dependencies" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CalAI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CalAI-master-emit-module.dia",
+    "swift-dependencies" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CalAI-master.swiftdeps"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/CalAIApp.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CalAIApp.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CalAIApp.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CalAIApp.o"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/ContentView.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Item.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/Item.o"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Models/FoodEntry.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/FoodEntry.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/FoodEntry.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/FoodEntry.o"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Models/Ingredient.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/Ingredient.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/Ingredient.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/Ingredient.o"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Services/OpenAIService.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/OpenAIService.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/OpenAIService.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/OpenAIService.o"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/ViewModels/CameraViewModel.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CameraViewModel.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CameraViewModel.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CameraViewModel.o"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/ViewModels/FoodAnalysisViewModel.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/FoodAnalysisViewModel.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/FoodAnalysisViewModel.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/FoodAnalysisViewModel.o"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/ViewModels/HistoryViewModel.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/HistoryViewModel.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/HistoryViewModel.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/HistoryViewModel.o"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Views/CameraView.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CameraView.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CameraView.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/CameraView.o"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Views/FoodAnalysisView.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/FoodAnalysisView.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/FoodAnalysisView.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/FoodAnalysisView.o"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Views/HistoryView.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/HistoryView.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/HistoryView.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/HistoryView.o"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Views/MainTabView.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/MainTabView.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/MainTabView.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/MainTabView.o"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/CalAI/Views/SettingsView.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/SettingsView.o"
+  },
+  "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/suryatejanammi/Desktop/Naveen/CalAI/build/CalAI.build/Release-iphoneos/CalAI.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}
