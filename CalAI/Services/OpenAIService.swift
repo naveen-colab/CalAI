@@ -8,14 +8,16 @@
 import Foundation
 import UIKit
 import Combine
+import SwiftUI
 
 class OpenAIService {
-    private let apiKey: String
     private let baseURL = "https://api.openai.com/v1/chat/completions"
     
+    // Access the stored API key
+    @AppStorage("openai_api_key") private var apiKey: String = ""
+    
     init() {
-        self.apiKey = ""
-        print("OpenAIService initialized with API key")
+        print("OpenAIService initialized with API key: \(apiKey.isEmpty ? "Not set" : "Set")")
     }
     
     func analyzeFood(image: UIImage) -> AnyPublisher<FoodAnalysisResponse, Error> {

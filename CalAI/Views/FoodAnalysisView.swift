@@ -63,7 +63,7 @@ struct FoodAnalysisView: View {
                 }
             }
             ToolbarItem(placement: .navigationBarTrailing) {
-                Button(viewModel.isAnalyzing || viewModel.foodEntry.foodName.isEmpty ? "Save" : "Close") {
+                Button("Save" ) {
                     viewModel.saveFoodEntry(in: modelContext)
                     dismiss()
                 }

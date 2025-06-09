@@ -30,14 +30,14 @@ struct MainTabView: View {
             }
             .tag(1)
             
-//            NavigationStack {
-//                SettingsView()
-//                    .navigationTitle("Settings")
-//            }
-//            .tabItem {
-//                Label("Settings", systemImage: "gear")
-//            }
-//            .tag(2)
+            NavigationStack {
+                SettingsView()
+                    .navigationTitle("Settings")
+            }
+            .tabItem {
+                Label("Settings", systemImage: "gear")
+            }
+            .tag(2)
         }
     }
 }
